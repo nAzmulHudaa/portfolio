@@ -1,0 +1,50 @@
+.about-img img{
+    width: 850px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+.about-img{
+    margin: auto;
+}
+.about-name{
+    color: white;
+    font-size: 24px;
+    font-weight: 800;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.learnMoreBtn{
+    border: 1px solid white;
+    padding: 10px 26px;
+    font-size: 17px;
+    background: white;
+    margin-top: 30px;
+}
+
+.about-description p{
+    color: #bcbcbc;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    
+}
+.my-details b{
+    color: white;
+}
+.my-details p{
+    color: #bcbcbc;
+}
+.my-details{
+    position: relative;
+    top: 25px;
+    left: 120px;
+    margin-bottom: 70px;
+}
+.about-description{
+    position: relative;
+    left: 30px;
+
+}
+.progress-bar{
+    background-color: rgb(153, 153, 153);
+}
+

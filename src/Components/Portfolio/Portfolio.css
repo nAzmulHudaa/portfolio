@@ -1,0 +1,25 @@
+.card{
+    width: 22rem;
+    margin: 40px;
+    margin-top: 80px;
+    background: black;
+    transition: transform 0.5s;
+}
+.projects{
+    position: relative;
+    top: 50px;
+    left: 140px;
+}
+.card:hover{
+    transform: translateY(-5px);
+}
+.cardBtn{
+    border: 1px solid white;
+    padding: 10px 26px;
+    font-size: 17px;
+    background: white;
+}
+.project-name{
+    margin-top: 30px;
+    font-weight: 800;
+}
