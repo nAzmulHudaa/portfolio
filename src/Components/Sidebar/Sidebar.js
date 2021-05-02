@@ -8,7 +8,7 @@ const Sidebar = () => {
         <div className="sidebar ">
             <div className="sidebar_inner">
                 <div className="logo">
-                    <img src={logo} alt="" />
+                    <h2 className='name-color'>Rimon's</h2>
                 </div>
                 <div className="menu">
                     <ul>
@@ -27,5 +27,9 @@ const Sidebar = () => {
         </div>
     );
 };
+
+// $('').click(function(){
+//     $('').sideToggle();
+// })
 
 export default Sidebar;

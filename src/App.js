@@ -11,6 +11,7 @@ import {
 } from "react-router-dom";
 import Portfolio from './Components/Portfolio/Portfolio';
 import Blog from './Components/Blog/Blog';
+import Contact from './Components/Contact/Contact';
 
 
 
@@ -18,6 +19,9 @@ function App() {
   return (
     <Router>
       <Switch>
+        <Route path='/contact'>
+          <Contact></Contact>
+        </Route>
         <Route path='/blog'>
           <Blog></Blog>
         </Route>

@@ -1,0 +1,29 @@
+.first input{
+    width: 100%;
+    float: left;
+    background-color: transparent;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #fff;
+    color: #fff;
+}
+.first ul{
+    margin: 0px;
+    list-style: none;
+}
+.last textarea{
+    width: 100%;
+    float: left;
+    background-color: transparent;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #fff;
+    height: 150px;
+    color: #fff;
+}
+.last button{
+    margin-left: 19px;
+}
+.map{
+    border: 0px;
+}

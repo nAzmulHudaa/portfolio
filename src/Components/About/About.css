@@ -48,3 +48,10 @@
     background-color: rgb(153, 153, 153);
 }
 
+@media screen and (max-width: 400px) {
+    .my-details{
+        position: relative;
+        right: 30px;
+    }
+   
+  }
